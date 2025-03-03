@@ -1,0 +1,51 @@
+﻿@page "/pizza"
+@using PizzaShaop.Data
+@using PizzaShaop.Data.Services
+@inject PizzaService PizzaService;
+
+<h3>Pizza's</h3>
+ @if (specials is null || !specials.Any())
+ {
+    <p>No pizza's available</p>
+ }
+<ul>
+   
+    @foreach (var item in specials)
+    {
+        <li>@item.Name - @item.Price
+            <button @onclick="() => RemoveFromOrder(item)"> Delete pizza</button>
+        </li>
+    }
+</ul>
+<h4><strong> Total price:</strong>@TotalPrice.ToString("C")</h4>
+@code {
+    List<PizzaModel>? specials;
+    List<PizzaModel> orderList = new();
+    private decimal TotalPrice => specials?.Sum(p => p.Price) ?? 0m;
+
+    private void RemoveFromOrder(PizzaModel pizzamodel)
+    {
+        specials.Remove(pizzamodel);
+        orderList = PizzaService.GetOrderedPizzas();
+
+        StateHasChanged();// This will force Blazor UI to update
+    }
+
+
+    //Simulating the data
+
+    private async Task LoadingPizzas()
+    {
+        specials = await PizzaService.GetPizzasAsync();
+    }
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadingPizzas(); 
+    }  
+}
+
+   
+
+}

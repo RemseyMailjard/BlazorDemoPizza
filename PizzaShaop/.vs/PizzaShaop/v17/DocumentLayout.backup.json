@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\docent\\source\\repos\\PizzaShaop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F766C5CC-F9EE-47B1-BF70-A990B53C1F2C}|PizzaShaop.csproj|c:\\users\\docent\\source\\repos\\pizzashaop\\components\\pages\\pizza.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F766C5CC-F9EE-47B1-BF70-A990B53C1F2C}|PizzaShaop.csproj|solutionrelative:components\\pages\\pizza.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F766C5CC-F9EE-47B1-BF70-A990B53C1F2C}|PizzaShaop.csproj|c:\\users\\docent\\source\\repos\\pizzashaop\\data\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F766C5CC-F9EE-47B1-BF70-A990B53C1F2C}|PizzaShaop.csproj|solutionrelative:data\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F766C5CC-F9EE-47B1-BF70-A990B53C1F2C}|PizzaShaop.csproj|c:\\users\\docent\\source\\repos\\pizzashaop\\data\\pizzamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F766C5CC-F9EE-47B1-BF70-A990B53C1F2C}|PizzaShaop.csproj|solutionrelative:data\\pizzamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F766C5CC-F9EE-47B1-BF70-A990B53C1F2C}|PizzaShaop.csproj|c:\\users\\docent\\source\\repos\\pizzashaop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F766C5CC-F9EE-47B1-BF70-A990B53C1F2C}|PizzaShaop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F766C5CC-F9EE-47B1-BF70-A990B53C1F2C}|PizzaShaop.csproj|c:\\users\\docent\\source\\repos\\pizzashaop\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F766C5CC-F9EE-47B1-BF70-A990B53C1F2C}|PizzaShaop.csproj|solutionrelative:components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F766C5CC-F9EE-47B1-BF70-A990B53C1F2C}|PizzaShaop.csproj|c:\\users\\docent\\source\\repos\\pizzashaop\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F766C5CC-F9EE-47B1-BF70-A990B53C1F2C}|PizzaShaop.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F766C5CC-F9EE-47B1-BF70-A990B53C1F2C}|PizzaShaop.csproj|c:\\users\\docent\\source\\repos\\pizzashaop\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F766C5CC-F9EE-47B1-BF70-A990B53C1F2C}|PizzaShaop.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F766C5CC-F9EE-47B1-BF70-A990B53C1F2C}|PizzaShaop.csproj|c:\\users\\docent\\source\\repos\\pizzashaop\\components\\account\\identityuseraccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F766C5CC-F9EE-47B1-BF70-A990B53C1F2C}|PizzaShaop.csproj|solutionrelative:components\\account\\identityuseraccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F766C5CC-F9EE-47B1-BF70-A990B53C1F2C}|PizzaShaop.csproj|c:\\users\\docent\\source\\repos\\pizzashaop\\components\\account\\identityrevalidatingauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F766C5CC-F9EE-47B1-BF70-A990B53C1F2C}|PizzaShaop.csproj|solutionrelative:components\\account\\identityrevalidatingauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\docent\\source\\repos\\PizzaShaop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\docent\\source\\repos\\PizzaShaop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:03:09.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PizzaService.cs",
+              "DocumentMoniker": "C:\\Users\\docent\\source\\repos\\PizzaShaop\\Data\\Services\\PizzaService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\PizzaService.cs",
+              "ToolTip": "C:\\Users\\docent\\source\\repos\\PizzaShaop\\Data\\Services\\PizzaService.cs",
+              "RelativeToolTip": "Data\\Services\\PizzaService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:50:53.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PizzaModel.cs",
+              "DocumentMoniker": "C:\\Users\\docent\\source\\repos\\PizzaShaop\\Data\\PizzaModel.cs",
+              "RelativeDocumentMoniker": "Data\\PizzaModel.cs",
+              "ToolTip": "C:\\Users\\docent\\source\\repos\\PizzaShaop\\Data\\PizzaModel.cs",
+              "RelativeToolTip": "Data\\PizzaModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:47:34.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pizza.razor",
+              "DocumentMoniker": "C:\\Users\\docent\\source\\repos\\PizzaShaop\\Components\\Pages\\Pizza.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Pizza.razor",
+              "ToolTip": "C:\\Users\\docent\\source\\repos\\PizzaShaop\\Components\\Pages\\Pizza.razor*",
+              "RelativeToolTip": "Components\\Pages\\Pizza.razor*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T08:31:38.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\docent\\source\\repos\\PizzaShaop\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\docent\\source\\repos\\PizzaShaop\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T08:24:20.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\docent\\source\\repos\\PizzaShaop\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\docent\\source\\repos\\PizzaShaop\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T08:23:43.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\docent\\source\\repos\\PizzaShaop\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\docent\\source\\repos\\PizzaShaop\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T08:22:11.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IdentityUserAccessor.cs",
+              "DocumentMoniker": "C:\\Users\\docent\\source\\repos\\PizzaShaop\\Components\\Account\\IdentityUserAccessor.cs",
+              "RelativeDocumentMoniker": "Components\\Account\\IdentityUserAccessor.cs",
+              "ToolTip": "C:\\Users\\docent\\source\\repos\\PizzaShaop\\Components\\Account\\IdentityUserAccessor.cs",
+              "RelativeToolTip": "Components\\Account\\IdentityUserAccessor.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:22:00.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IdentityRevalidatingAuthenticationStateProvider.cs",
+              "DocumentMoniker": "C:\\Users\\docent\\source\\repos\\PizzaShaop\\Components\\Account\\IdentityRevalidatingAuthenticationStateProvider.cs",
+              "RelativeDocumentMoniker": "Components\\Account\\IdentityRevalidatingAuthenticationStateProvider.cs",
+              "ToolTip": "C:\\Users\\docent\\source\\repos\\PizzaShaop\\Components\\Account\\IdentityRevalidatingAuthenticationStateProvider.cs",
+              "RelativeToolTip": "Components\\Account\\IdentityRevalidatingAuthenticationStateProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:21:58.882Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
