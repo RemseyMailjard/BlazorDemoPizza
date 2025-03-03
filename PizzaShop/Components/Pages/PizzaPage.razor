@@ -1,0 +1,80 @@
+﻿@page "/pizza"
+@using PizzaShop.Data
+@using PizzaShop.Data.Services
+@inject PizzaService PizzaService
+
+<h3>🍕 Pizza Menu</h3>
+
+@if (specials == null)
+{
+    <p>Loading pizzas...</p>
+}
+else if (!specials.Any())
+{
+    <p>No pizzas available</p>
+}
+else
+{
+    <ul>
+        @foreach (var item in specials)
+        {
+            <li>
+                @item.Name - @item.Price.ToString("C")
+                <button @onclick="() => AddToOrder(item)">🛒 Bestellen</button>
+            </li>
+        }
+    </ul>
+}
+
+<h3>🛍️ Your Order</h3>
+
+@if (orderList?.Any() == true)
+{
+    <ul>
+        @foreach (var item in orderList)
+        {
+            <li>
+                @item.Name - @item.Price.ToString("C")
+                <button @onclick="() => RemoveFromOrder(item)">🗑️ Remove</button>
+            </li>
+        }
+    </ul>
+    <h4><strong>💰 Total Price:</strong> @TotalPrice.ToString("C")</h4>
+}
+else
+{
+    <p>Your order is empty.</p>
+}
+
+@code {
+    private List<Pizza>? specials = new();
+    private List<Pizza> orderList = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        var pizzas = await PizzaService.GetPizzasAsync() ?? new List<Pizza>();
+        specials = pizzas;
+        orderList = PizzaService.GetOrderedPizzas() ?? new List<Pizza>();
+        RefreshOrderList();
+    }
+
+    private decimal TotalPrice => orderList.Sum(p => p.Price);
+
+    private void AddToOrder(Pizza pizza)
+    {
+        PizzaService.AddToOrder(pizza);
+        RefreshOrderList();
+    }
+
+    private void RemoveFromOrder(Pizza pizza)
+    {
+        PizzaService.RemoveFromOrder(pizza);
+        RefreshOrderList();
+    }
+
+    private void RefreshOrderList()
+    {
+        orderList = PizzaService.GetOrderedPizzas();
+        InvokeAsync(StateHasChanged);
+    }
+}

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\docent\\source\\repos\\PizzaShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD63439-69D2-42D6-94A5-EFCE2CAD6A32}|PizzaShop.csproj|c:\\users\\docent\\source\\repos\\pizzashop\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDD63439-69D2-42D6-94A5-EFCE2CAD6A32}|PizzaShop.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD63439-69D2-42D6-94A5-EFCE2CAD6A32}|PizzaShop.csproj|c:\\users\\docent\\source\\repos\\pizzashop\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDD63439-69D2-42D6-94A5-EFCE2CAD6A32}|PizzaShop.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD63439-69D2-42D6-94A5-EFCE2CAD6A32}|PizzaShop.csproj|c:\\users\\docent\\source\\repos\\pizzashop\\components\\pages\\pizzapage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDD63439-69D2-42D6-94A5-EFCE2CAD6A32}|PizzaShop.csproj|solutionrelative:components\\pages\\pizzapage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD63439-69D2-42D6-94A5-EFCE2CAD6A32}|PizzaShop.csproj|c:\\users\\docent\\source\\repos\\pizzashop\\components\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDD63439-69D2-42D6-94A5-EFCE2CAD6A32}|PizzaShop.csproj|solutionrelative:components\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD63439-69D2-42D6-94A5-EFCE2CAD6A32}|PizzaShop.csproj|c:\\users\\docent\\source\\repos\\pizzashop\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDD63439-69D2-42D6-94A5-EFCE2CAD6A32}|PizzaShop.csproj|solutionrelative:components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD63439-69D2-42D6-94A5-EFCE2CAD6A32}|PizzaShop.csproj|c:\\users\\docent\\source\\repos\\pizzashop\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDD63439-69D2-42D6-94A5-EFCE2CAD6A32}|PizzaShop.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD63439-69D2-42D6-94A5-EFCE2CAD6A32}|PizzaShop.csproj|c:\\users\\docent\\source\\repos\\pizzashop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD63439-69D2-42D6-94A5-EFCE2CAD6A32}|PizzaShop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD63439-69D2-42D6-94A5-EFCE2CAD6A32}|PizzaShop.csproj|c:\\users\\docent\\source\\repos\\pizzashop\\data\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD63439-69D2-42D6-94A5-EFCE2CAD6A32}|PizzaShop.csproj|solutionrelative:data\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PizzaPage.razor",
+              "DocumentMoniker": "C:\\Users\\docent\\source\\repos\\PizzaShop\\Components\\Pages\\PizzaPage.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\PizzaPage.razor",
+              "ToolTip": "C:\\Users\\docent\\source\\repos\\PizzaShop\\Components\\Pages\\PizzaPage.razor",
+              "RelativeToolTip": "Components\\Pages\\PizzaPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T11:15:37.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\docent\\source\\repos\\PizzaShop\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\docent\\source\\repos\\PizzaShop\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T11:14:50.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\docent\\source\\repos\\PizzaShop\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\docent\\source\\repos\\PizzaShop\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T11:14:49.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Auth.razor",
+              "DocumentMoniker": "C:\\Users\\docent\\source\\repos\\PizzaShop\\Components\\Pages\\Auth.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Auth.razor",
+              "ToolTip": "C:\\Users\\docent\\source\\repos\\PizzaShop\\Components\\Pages\\Auth.razor",
+              "RelativeToolTip": "Components\\Pages\\Auth.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T11:14:48.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\docent\\source\\repos\\PizzaShop\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "C:\\Users\\docent\\source\\repos\\PizzaShop\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T11:10:35.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\docent\\source\\repos\\PizzaShop\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\docent\\source\\repos\\PizzaShop\\Components\\Routes.razor",
+              "RelativeToolTip": "Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T11:10:32.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\docent\\source\\repos\\PizzaShop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\docent\\source\\repos\\PizzaShop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAiwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:28:50.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PizzaService.cs",
+              "DocumentMoniker": "C:\\Users\\docent\\source\\repos\\PizzaShop\\Data\\Services\\PizzaService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\PizzaService.cs",
+              "ToolTip": "C:\\Users\\docent\\source\\repos\\PizzaShop\\Data\\Services\\PizzaService.cs",
+              "RelativeToolTip": "Data\\Services\\PizzaService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAywCQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:28:21.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
